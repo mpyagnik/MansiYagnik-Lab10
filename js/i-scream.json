@@ -38,24 +38,24 @@
       "image": "strawberry-sprinkle.svg"
     },
     {
-      "name": "Chinese Chow",
+      "name": "Malai kulfi",
       "calories": 650,
-      "type": "frozen milk",
+      "type": "frozen cream",
       "ingredients": [
         "Vanila milk",
-        "milk chocolate dip",
-        "dark chocolate"
+        "condensed milk",
+        "cream"
       ],
       "image": "ice-cream-xtra1.svg"
     },
     {
-      "name": "Rajbhog Casata",
+      "name": "Flingo cone",
       "calories": 445,
-      "type": "frozen yogurt",
+      "type": "frozen icemilk",
       "ingredients": [
-        "Rabdi",
-        "cashew",
-        "almonds"
+        "Cream",
+        "chocolate",
+        "strawberry syrup"
       ],
       "image": "ice-cream-xtra2.svg"
     }
